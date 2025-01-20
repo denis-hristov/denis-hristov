@@ -16,10 +16,18 @@ I love learning new things and applying that knowledge in practice.
 - Seeking an internship or junior developer role.  
 - Building several program ideas I’ve envisioned.  
 
+## 📊 Languages Used in My Projects
+
+Here’s a breakdown of the programming languages I’ve used:
+
+- **C++**: 🟢🟢🟢🟢🟢🟢 (60%)
+- **Python**: 🟠🟠 (10%)
+- **JavaScript**: 🟠🟠 (10%)
+- **C#**: 🟠🟠 (10%)
+- **HTML**: 🟠🟠 (5%)
+- **CSS**: 🟠🟠 (5%)
+
+*Note: The chart above represents an approximate distribution based on the projects I’ve worked on.*
+
 ## 📫 Let's Connect!  
 Reach out to me via email or on social media.
-
-<!---
-denis-hristov/denis-hristov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
