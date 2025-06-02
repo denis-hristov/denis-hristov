@@ -20,12 +20,7 @@ I love learning new things and applying that knowledge in practice.
 
 Here’s a breakdown of the programming languages I’ve used:
 
-- **C++**: 🟢🟢🟢🟢🟢🟢 (60%)
-- **Python**: 🟠🟠 (10%)
-- **JavaScript**: 🟠🟠 (10%)
-- **C#**: 🟠🟠 (10%)
-- **HTML**: 🟠🟠 (5%)
-- **CSS**: 🟠🟠 (5%)
+![My Skills](https://denis-hristov.github.io/My-skills/)
 
 *Note: The chart above represents an approximate distribution based on the projects I’ve worked on.*
 
