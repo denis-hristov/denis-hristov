@@ -1,30 +1,28 @@
 # About Me
 
 👋 **Hi, I'm Denis!**  
-I am passionate about improving my programming skills and turning ideas into reality.  
+I'm focused on sharpening my programming skills and turning practical ideas into working solutions.
 
 ## 🛠 Skills and Background  
-- 📈 **Finance & Investments:** Experienced in financial analysis and strategies.  
-- 🎨 **Design & Marketing:** Skilled in design, marketing, and video editing.  
-- 💻 **Programming:** I've about a year of experience in programming, creating small console applications.  
-- 🛠 **Tech Stack:** C++ in Visual Studio 2022.  
+- 📈 **Finance & Investments:** Solid experience with financial analysis and investment strategies.  
+- 🎨 **Design & Marketing:** Comfortable with design tools, marketing strategies, and video editing.  
+- 💻 **Programming:** Around a year of hands-on coding experience, mostly building small console apps.  
+- ⚙️ **Tech Stack:** Primarily using C++ with Visual Studio 2022.
 
 ## 🌟 What Makes Me Unique  
-I love learning new things and applying that knowledge in practice.  
+I'm curious, driven, and apply what I learn right away. I don’t just consume knowledge—I use it.
 
 ## 🚀 Current Goals  
-- Seeking an internship or junior developer role.  
-- Building several program ideas I’ve envisioned.  
+- Looking for an internship or entry-level developer role.  
+- Developing a few software ideas I’ve been planning for a while.
 
-## 📊 Languages Used in My Projects
+## 📊 Languages I Use
 
-Here’s a breakdown of the programming languages I’ve used:
+Here’s a more accurate look at how I use different programming languages in my work:
 
-[My Skills](https://denis-hristov.github.io/My-skills/)
+[Visual Breakdown](https://denis-hristov.github.io/My-skills/)  
+![My Skills graph](https://denis-hristov.github.io/My-skills/image.png)  
+*This reflects my own estimate based on the amount of code I've written in each language.*
 
-![My Skills graph](https://denis-hristov.github.io/My-skills/image.png)
-
-*Note: The chart above represents an approximate distribution based on the projects I’ve worked on.*
-
-## 📫 Let's Connect!  
-Reach out to me via email or on social media.
+## 📫 Let's Connect  
+You can reach me by email or on social media. I’m open to opportunities and collaborations.
