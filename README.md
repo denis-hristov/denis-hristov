@@ -22,7 +22,7 @@ Here’s a breakdown of the programming languages I’ve used:
 
 [My Skills](https://denis-hristov.github.io/My-skills/)
 
-![My Skills graph](https://denis-hristov.github.io/My-skills/preview.png)
+![My Skills graph](https://denis-hristov.github.io/My-skills/image.png)
 
 *Note: The chart above represents an approximate distribution based on the projects I’ve worked on.*
 
