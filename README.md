@@ -1,36 +1,28 @@
 # About Me
 
 👋 **Hi, I'm Denis!**  
-I'm a 21-year-old computer science enthusiast from Varna, Bulgaria. I'm passionate about programming and continuously strive to enhance my skills by working on diverse projects.:contentReference[oaicite:14]{index=14}
+I'm focused on sharpening my programming skills and turning practical ideas into working solutions.
 
-## 🛠 Skills and Background
+## 🛠 Skills and Background  
+- 📈 **Finance & Investments:** Solid experience with financial analysis and investment strategies.  
+- 🎨 **Design & Marketing:** Comfortable with design tools, marketing strategies, and video editing.  
+- 💻 **Programming:** Around a year of hands-on coding experience, mostly building small console apps.  
+- ⚙️ **Tech Stack:** Primarily using C++ with Visual Studio 2022.
 
-- **Programming Languages:** :contentReference[oaicite:16]{index=16}
-- **Tools & Technologies:** :contentReference[oaicite:19]{index=19}
-- **Finance & Investments:** :contentReference[oaicite:22]{index=22}
-- **Design & Marketing:** :contentReference[oaicite:25]{index=25}:contentReference[oaicite:27]{index=27}
+## 🌟 What Makes Me Unique  
+I'm curious, driven, and apply what I learn right away. I don’t just consume knowledge—I use it.
 
-## 🌟 Notable Projects
+## 🚀 Current Goals  
+- Looking for an internship or entry-level developer role.  
+- Developing a few software ideas I’ve been planning for a while.
 
-Here are some of the projects I've worked on:
+## 📊 Languages I Use
 
-- [**musalagroupproject**](https://github.com/denis-hristov/musalagroupproject): :contentReference[oaicite:29]{index=29}
-- [**restaurantprojectLFM**](https://github.com/denis-hristov/restaurantprojectLFM): :contentReference[oaicite:32]{index=32}
-- [**phonebookprojectLFM**](https://github.com/denis-hristov/phonebookprojectLFM): :contentReference[oaicite:35]{index=35}
-- [**game-force**](https://github.com/denis-hristov/game-force): :contentReference[oaicite:38]{index=38}
-- [**primenumberstask**](https://github.com/denis-hristov/primenumberstask): :contentReference[oaicite:41]{index=41}:contentReference[oaicite:43]{index=43}
+Here’s a more accurate look at how I use different programming languages in my work:
 
-## 🚀 Current Goals
+[Visual Breakdown](https://denis-hristov.github.io/My-skills/)  
+![My Skills graph](https://denis-hristov.github.io/My-skills/image.png)  
+*This reflects my own estimate based on the amount of code I've written in each language.*
 
-- :contentReference[oaicite:45]{index=45}
-- :contentReference[oaicite:48]{index=48}:contentReference[oaicite:50]{index=50}
-
-## 📫 Let's Connect
-
-Feel free to reach out to me via:
-
-- **GitHub:** [denis-hristov](https://github.com/denis-hristov)
-- **Instagram:** [denis_hristov](https://www.instagram.com/denis_hristov/)
-- **YouTube:** [Denis Hristov](https://www.youtube.com/channel/UCr8URNO62cfW5EtXPLw2Q0w)
-
-:contentReference[oaicite:52]{index=52}:contentReference[oaicite:54]{index=54}
+## 📫 Let's Connect  
+You can reach me by email or on social media. I’m open to opportunities and collaborations.
