@@ -23,7 +23,7 @@ I value clean execution, continuous improvement, critical thinking, and solving 
 
 I am currently focused on:
 
-1. Building modern applications with React and TypeScript
+1. Building modern applications with React
 2. Improving my full stack development skills
 3. Creating automation and productivity tools
 4. Developing software products and SaaS ideas
